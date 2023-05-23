@@ -256,7 +256,7 @@ menuIcon.addEventListener("click", () => {
 // About Me Text
 const aboutMeText = document.querySelector(".about-me-text");
 const aboutMeTextContent =
-  "I am a student software developer in progress. Soon to be professional developer :)";
+  "I am a software developer. Feel free to take a look around :)";
 
 Array.from(aboutMeTextContent).forEach((char) => {
   const span = document.createElement("span");
