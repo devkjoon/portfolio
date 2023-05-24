@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 Here you area able to see some of my work. 
 
